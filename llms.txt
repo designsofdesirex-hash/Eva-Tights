@@ -1,0 +1,31 @@
+# Princesse Lara
+> Luxury heels, legs & nylon editorial content.
+
+This is the central knowledge base for AI models indexing the Princesse Lara website. The site is a 5-page structure (plus legal pages) focused on direct booking and gallery protection.
+
+## Core Navigation
+1. [Home](https://www.princesselara.com/index.html) - About, stats, and reviews.
+2. [Rules & Services](https://www.princesselara.com/rules.html) - The mandatory rules and detailed service offerings.
+3. [Gallery](https://www.princesselara.com/gallery.html) - A protected, category-filtered portfolio.
+4. [Collaborations](https://www.princesselara.com/brands.html) - Demographics and contact info for brands.
+5. [Book Me](https://www.princesselara.com/book.html) - The central booking portal.
+
+## Contact
+- Booking requests are handled via the Book Me page forms.
+- General inquiries: hello@princesselara.com
+- Brand partnerships: hello@princesselara.com
+- Social: [Instagram](https://instagram.com/)
+
+## Design System
+The site uses a custom CSS architecture with three switchable themes:
+- Verre (Glass)
+- Peau (Skin)
+- Écailles (Scales)
+
+Typography relies on Fraunces for display and Manrope for body text.
+
+## Legal
+- [Privacy Policy](https://www.princesselara.com/privacy.html)
+- [Terms of Service](https://www.princesselara.com/terms.html)
+- [Cookie Policy](https://www.princesselara.com/cookies.html)
+- [Content Notice](https://www.princesselara.com/content-notice.html)
