@@ -1,47 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/rules.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/gallery.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+    <!-- TODO: add <image:image><image:loc>...</image:loc><image:title>...</image:title></image:image>
+         entries per gallery photo — send me the image URLs/filenames and I'll generate these.
+         Image sitemaps meaningfully boost visibility in Google Images for a visual/portfolio site like this. -->
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/brands.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/book.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/privacy.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/terms.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/cookies.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
     <loc>https://designsofdesirex-hash.github.io/Eva-Tights/content-notice.html</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url>
