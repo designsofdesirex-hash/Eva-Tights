@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.princesselara.com/sitemap.xml
+Sitemap: https://designsofdesirex-hash.github.io/Eva-Tights/sitemap.xml
