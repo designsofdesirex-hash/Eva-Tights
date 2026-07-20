@@ -952,10 +952,13 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 }
 .rule-item {
   display: grid;
-  grid-template-columns: 80px 1fr;
+  grid-template-columns: 1fr;
   gap: var(--space-5);
   padding-bottom: var(--space-5);
   border-bottom: 1px solid rgba(248, 237, 234, 0.1);
+}
+.rule-item:has(.rule-number) {
+  grid-template-columns: 80px 1fr;
 }
 [data-theme="peau"] .rule-item {
   border-color: rgba(58, 34, 41, 0.1);
@@ -1196,11 +1199,11 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   }
   .timeline-steps::before {
     top: 0;
-    bottom: 0;
+    bottom: auto;
     left: 24px;
     right: auto;
     width: 1px;
-    height: auto;
+    height: 100%;
   }
   .timeline-step {
     text-align: left;
